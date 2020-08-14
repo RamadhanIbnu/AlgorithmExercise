@@ -1,30 +1,30 @@
-Buatlah Algoritma untuk menyelesaikan problem ini
+## Buatlah Algoritma untuk menyelesaikan problem ini
 
-William ingin menampilkan deretan nilai dari 0 sampai N.
+1. William ingin menampilkan deretan nilai dari 0 sampai N.
 
-N adalah nilai akhir yang diinputkan.
+2. N adalah nilai akhir yang diinputkan.
 
-Jika William menginput N dengan nilai 100, maka program akan
+3. Jika William menginput N dengan nilai 100, maka program akan
 menampilkan deretan nilai 1, 2, 3, 4, 5, … , 100
 
-jawab
+## Jawab
 
-STORE "count" to 1
+    STORE "count" to 1
 
-STORE "N" with value
+    STORE "N" with value
 
-STORE "data" without any value
+    STORE "data" without any value
 
-WHILE "count" <= "N" 
+    WHILE "count" <= "N" 
 
-    SET "data" value with "count"
+        SET "data" value with "count"
 
-    INCREMENT "count"
+        INCREMENT "count"
 
-    IF "data" equal to "N"
+        IF "data" equal to "N"
 
-        DISPLAY "data"
-    
-    ELSE
+            DISPLAY "data"
+        
+        ELSE
 
-        back to WHILE
+            back to WHILE

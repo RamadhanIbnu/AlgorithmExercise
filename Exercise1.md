@@ -7,6 +7,9 @@ Buatlah Algoritma untuk menyelesaikan problem ini
 Jawab
 
 STORE "jam" with value
+
 STORE "detik" without any value
+
 CONVERT "jam" to "detik"
+
 DISPLAY "detik"

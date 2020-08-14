@@ -8,10 +8,10 @@
 
 ## Jawab
 --------------------------------------------------------
-* STORE "jam" with value
+    STORE "jam" with value
 
-* STORE "detik" without any value
+    STORE "detik" without any value
 
-* CONVERT "jam" to "detik"
-
-* DISPLAY "detik"
+    CONVERT "jam" to "detik"
+    
+    DISPLAY "detik"
